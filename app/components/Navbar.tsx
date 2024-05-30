@@ -5,7 +5,7 @@ import logo from "../../public/assets/icons8-google-wallet-64.svg";
 
 const Navbar = () => {
 
-  const navItems = ["AI", "Services", "Portfolio", "Podcasts", "About"];
+  const navItems = ["✨AI", "Services", "Portfolio", "Podcasts", "About"];
 
 
   return (
